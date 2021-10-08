@@ -6,3 +6,6 @@ In this module, you will get a brief intro to regression. You will learn about L
 
 * To understand the basics of regression.
 * To apply Simple and Multiple, Linear and Non-Linear Regression on a data set for estimation.
+
+## Simple Linear Regression
+
