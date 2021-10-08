@@ -9,3 +9,6 @@ In this module, you will get a brief intro to regression. You will learn about L
 
 ## Simple Linear Regression
 
+[Simple Linear Regression](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-Reg-Simple-Linear-Regression-Co2.ipynb)
+
+
