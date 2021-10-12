@@ -15,3 +15,7 @@ In this module, you will get a brief intro to regression. You will learn about L
 
 [Multiple Linear Regression](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-Reg-Mulitple-Linear-Regression-Co2.ipynb)
 
+## Polynomial Regression
+
+[Polynomial Regression](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-Reg-Polynomial-Regression-Co2.ipynb)
+
