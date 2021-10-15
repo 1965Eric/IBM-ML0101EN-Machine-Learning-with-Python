@@ -8,3 +8,6 @@ In this module, you will learn about classification techniques. You will practic
 * To apply Classification algorithms on various data sets to solve real world problems.
 * To understand evaluation methods in Classification.
 
+## K-Nearest-neighbors
+
+[K-Nearest-neighbors](
