@@ -22,7 +22,7 @@ In this module, you will learn about classification techniques. You will practic
 
 ## SVM (Support Vector Machines)
 
-[SVM (Support Vector Machines)]()
+[SVM (Support Vector Machines)](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-Clas-SVM-cancer.ipynb)
 
 ## Model 3 - Graded Quiz
 
