@@ -20,4 +20,8 @@ In this module, you will learn about classification techniques. You will practic
 
 [Logistic Regression](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-Clas-Logistic-Reg-churn.ipynb)
 
+## SVM (Support Vector Machines)
 
+[SVM (Support Vector Machines)]()
+
+# Graded
