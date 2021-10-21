@@ -16,4 +16,8 @@ In this module, you will learn about classification techniques. You will practic
 
 [Decision Trees](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-Clas-Decision-Trees-drug.ipynb)
 
+## Logistic Regression
+
+[Logistic Regression](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-Clas-Logistic-Reg-churn.ipynb)
+
 
