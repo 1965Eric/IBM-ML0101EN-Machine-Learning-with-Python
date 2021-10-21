@@ -24,4 +24,36 @@ In this module, you will learn about classification techniques. You will practic
 
 [SVM (Support Vector Machines)]()
 
-# Graded
+## Model 3 - Graded Quiz
+
+Question 1: Which one IS NOT a sample of a classification problem?
+
+- A. [ ] To predict whether a customer responds to a particular advertising campaign or not.
+- B. [X] To predict the amount of money a customer will spend in one year.
+- C. [ ] To predict whether a customer switches to another provider/brand.
+- D. [ ] To predict the category to which a customer belongs.
+
+Question 2: Which of the following statements is TRUE about Logistic Regression?
+
+- A. [ ] In logistic regression, the dependent variable is binary.
+- B. [ ] Logistic regression is analogous to linear regression but takes a categorical/discrete target field instead of a numeric one.
+- C. [ ] Logistic regression can be used both for binary classification and multi-class classification.
+- D. [X] All of the above.
+
+Question 3: Which of the following examples is/are a sample application of Logistic Regression? (Select all that apply)
+
+- A. [X] The probability that a person has a heart attack within a specified time period using a person's age and sex.
+- B. [X] Likelihood of a homeowner defaulting on a mortgage.
+- C. [X] Customer's propensity to purchase a product or halt a subscription in marketing applications.
+- D. [ ] Estimating the blood pressure of a patient based on their symptoms and biographical data.
+
+Question 4: Which one is TRUE about the kNN algorithm?
+
+- A. [ ] kNN is a classification algorithm that takes a bunch of unlabelled points and uses them to learn how to label other points.
+- B. [X] kNN algorithm can be used to estimate values for a continuous target.
+
+Question 5: What is "information gain" in decision trees?
+
+- A. [ ] It is the information that can decrease the level of certainty after splitting in each node.
+- B. [ ] It is the amount of information disorder, or the amount of randomness in each node.
+- C. [X] It is the entropy of a tree before split minus weighted entropy after split by an attribute.
