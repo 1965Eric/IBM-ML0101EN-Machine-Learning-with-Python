@@ -9,4 +9,4 @@ In this module, you will learn about different clustering approaches. You will l
 
 ## k-Means
 
-[k-Means]()
+[k-Means](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-Clus-K-Means-Customer-Seg.ipynb)
