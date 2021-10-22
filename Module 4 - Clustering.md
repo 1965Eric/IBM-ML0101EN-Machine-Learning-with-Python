@@ -7,3 +7,6 @@ In this module, you will learn about different clustering approaches. You will l
 * To understand different types of clustering algorithms.
 * To apply clustering on different types of data sets.
 
+## k-Means
+
+[k-Means]()
