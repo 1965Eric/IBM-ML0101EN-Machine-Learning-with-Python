@@ -45,7 +45,7 @@ Question 3: Which of the following is an application of clustering?
 Question 4: Which approach can be used to calculate dissimilarity of objects in clustering?
 
 - A. [ ] Cosine similarity
-- B. [ ] - A. [ ] Euclidian distance
+- B. [ ] Euclidian distance
 - C. [ ] Minkowski distance
 - D. [X] All of the above
 
