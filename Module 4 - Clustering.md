@@ -19,4 +19,6 @@ In this module, you will learn about different clustering approaches. You will l
 
 [DBSCAN Clustering]
 
-## Graded Quiz
+## Module 4 - Graded Quiz
+
+
