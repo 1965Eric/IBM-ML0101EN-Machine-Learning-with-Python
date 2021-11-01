@@ -17,7 +17,7 @@ In this module, you will learn about different clustering approaches. You will l
 
 ## DBSCAN Clustering
 
-[DBSCAN Clustering]
+[DBSCAN Clustering](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-Clus-DBSCN-weather.ipynb)
 
 ## Module 4 - Graded Quiz
 
