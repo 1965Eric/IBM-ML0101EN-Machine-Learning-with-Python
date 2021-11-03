@@ -7,3 +7,8 @@ In this module, you will learn about recommender systems. You will be introduced
 * To understand the purpose and mechanism of recommendation systems.
 * To understand the different types of recommender systems. 
 * To implement recommender systems on a real data set.
+
+## Content-based Recommendation Systems
+
+[Content-based Recommendation Systems](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-RecSys-Content-Based-movies.ipynb)
+
