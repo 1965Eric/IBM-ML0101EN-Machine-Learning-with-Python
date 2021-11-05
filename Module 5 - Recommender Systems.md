@@ -14,4 +14,4 @@ In this module, you will learn about recommender systems. You will be introduced
 
 ## Collaborative Filtering
 
-[Collaborative Filtering]()
+[Collaborative Filtering](https://github.com/1965Eric/IBM-ML0101EN-Machine-Learning-with-Python/blob/main/ML0101EN-RecSys-Collaborative-Filtering-movies.ipynb)
