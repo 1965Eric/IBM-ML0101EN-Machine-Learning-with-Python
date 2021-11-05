@@ -21,7 +21,7 @@ In this module, you will learn about recommender systems. You will be introduced
 Question 1: What is/are the advantage/s of Recommender Systems?
 
 - A. [ ] Recommender Systems encourage users towards continual usage or purchase of their product.
-- B. [ ] - A. [ ] Recommender Systems benefit the service provider by increasing potential revenue and better security for its consumers.
+- B. [ ] Recommender Systems benefit the service provider by increasing potential revenue and better security for its consumers.
 - C. [ ] Recommender Systems provide a better experience for the users by giving them a broader exposure to many different products they might be interested in.
 - D. [X] All of the above.
 
