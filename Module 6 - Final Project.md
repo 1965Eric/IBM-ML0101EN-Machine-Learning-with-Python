@@ -35,13 +35,43 @@ The results are reported as the accuracy of each classifier, using the following
 **This final project will be graded by your peers who are also completing the course during the same session. This project is worth 25 marks of your total grade, and is distributed as follows:**
 
 1. Build a KNN model using a value of k equals five, find the accuracy on the validation data **(1 mark)**
-
 2. Determine the accuracy for the first 15 values of k the on the validation data. **(1 mark)**
-
 3. Determine the minimum value for the parameter that improves results on validation data. **(1 mark)**
-
 4. Building model using Support Vector Machine. **(2 marks)**
-
 5. Train a logistic regression model and determine the accuracy of the validation data (set C=0.01) **(2 marks)**
-
 6. Calculate the F1 score and Jaccard Similarity score for each model from above. Use the Hyperparameter that performed best on the validation data. **(2 marks)**
+
+## Step-By-Step Assignment Instructions:
+
+**Step A:** Create an account in Watson Studio if you don't have an account already. (If you already have an account, jump to Step B).
+
+1. Final Project Setup
+
+**Step B:** Sign into Watson Studio and import your notebook
+
+1. Sign in to IBM Cloud Watson Studio
+2. Click on "Create a project".
+3. On the Create a project page, click "Create an empty project".
+4. Give a name to your project and a description for your reference, then set-up your project as follows, then click "Create".
+
+**Notice 1:** Because you are going to share this project with your peers for evaluation, please make sure you uncheck "Restrict who can be a collaborator".
+
+**Notice 2:** You must create an IBM Object Storage, if you don't have an IBM Object Storage, you can use the free Lite plan.
+
+5. From the top-right, click on "New asset", scroll down and select "Jupyter notebook editor".
+In the "New Notebook" form, click on "From URL" and right-click on Notebook URL, copy link and paste it.
+
+Give your notebook a proper name and description and click on "Create Notebook" to initialize the notebook.
+
+Step C: Complete the Notebook
+
+Start running the notebook.
+Complete the notebook based on the description in the notebook.
+Step D: Share the Notebook
+
+Click on the share icon on the top-right side of your page.
+Activate the "Share with anyone who has the link".
+Select "All content excluding sensitive code cells".
+Copy the link from "Permalink to view notebook".
+Submit your Notebook for Grading
+Paste the shared link of your Notebook in the provided text box below for peer-review.
