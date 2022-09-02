@@ -32,16 +32,16 @@ The results are reported as the accuracy of each classifier, using the following
 
 ## Review Criteria
 
-**This final project will be graded by your peers who are also completing the course during the same session. This project is worth 25 marks of your total grade, and is distributed as follows:
+**This final project will be graded by your peers who are also completing the course during the same session. This project is worth 25 marks of your total grade, and is distributed as follows:**
 
 1. Build a KNN model using a value of k equals five, find the accuracy on the validation data **(1 mark)**
 
-2. Determine the accuracy for the first 15 values of k the on the validation data:. **(1 mark)**
+2. Determine the accuracy for the first 15 values of k the on the validation data. **(1 mark)**
 
-Determine the minimum value for the parameter that improves results on validation data. (1 marks)
+3. Determine the minimum value for the parameter that improves results on validation data. **(1 mark)**
 
-Building model using Support Vector Machine. (2 marks)
+4. Building model using Support Vector Machine. **(2 marks)**
 
-Train a logistic regression model and determine the accuracy of the validation data (set C=0.01) (2 marks)
+5. Train a logistic regression model and determine the accuracy of the validation data (set C=0.01) **(2 marks)**
 
-Calculate the F1 score and Jaccard Similarity score for each model from above. Use the Hyperparameter that performed best on the validation data (2 marks)
+6. Calculate the F1 score and Jaccard Similarity score for each model from above. Use the Hyperparameter that performed best on the validation data. **(2 marks)**
