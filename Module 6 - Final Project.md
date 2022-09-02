@@ -59,19 +59,21 @@ The results are reported as the accuracy of each classifier, using the following
 **Notice 2:** You must create an IBM Object Storage, if you don't have an IBM Object Storage, you can use the free Lite plan.
 
 5. From the top-right, click on "New asset", scroll down and select "Jupyter notebook editor".
-In the "New Notebook" form, click on "From URL" and right-click on Notebook URL, copy link and paste it.
+6. In the "New Notebook" form, click on "From URL" and right-click on Notebook URL, copy link and paste it.
+7. Give your notebook a proper name and description and click on "Create Notebook" to initialize the notebook.
 
-Give your notebook a proper name and description and click on "Create Notebook" to initialize the notebook.
+**Step C:** Complete the Notebook
 
-Step C: Complete the Notebook
+1. Start running the notebook.
+2. Complete the notebook based on the description in the notebook.
 
-Start running the notebook.
-Complete the notebook based on the description in the notebook.
-Step D: Share the Notebook
+**Step D:** Share the Notebook
 
-Click on the share icon on the top-right side of your page.
-Activate the "Share with anyone who has the link".
-Select "All content excluding sensitive code cells".
-Copy the link from "Permalink to view notebook".
-Submit your Notebook for Grading
+1. Click on the share icon on the top-right side of your page.
+2. Activate the "Share with anyone who has the link".
+3. Select "All content excluding sensitive code cells".
+4. Copy the link from "Permalink to view notebook".
+
+## Submit your Notebook for Grading
+
 Paste the shared link of your Notebook in the provided text box below for peer-review.
